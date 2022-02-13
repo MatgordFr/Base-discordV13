@@ -12,7 +12,7 @@
 <br/>
 
 
-# ⛏️ Langages et Outils <a name = "langages_et_outils"></a>
+# 🔍 Langages et Outils <a name = "langages_et_outils"></a>
 
 - [Discord.JS](https://discord.js.org/#/) 
 - [JavaScript Object Notation](https://www.mongodb.com/) 
