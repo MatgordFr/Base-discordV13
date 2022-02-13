@@ -1,0 +1,10 @@
+{
+  "token": "TOKEN DE VOTRE BOT",
+  "prefix": "PREFIXE DE VOTRE BOT",
+
+  "ownerID": "TON ID",
+  "color": "#ff0000",
+
+    "satut1": "PREMIER STATUT(a changer)",
+    "satut2": "SECOND STATUT(a changer)"
+}
